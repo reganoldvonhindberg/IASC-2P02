@@ -4,7 +4,7 @@
 
 I am a person who goes to school at Brock Universty. Welcome to my portfolio site.
 
-![Controller Headphone](imagez/controller.jpg)
+![Controller Headphone](images/controller.jpg)
 
 ## Blog Post
 
