@@ -8,4 +8,4 @@ I am a person who goes to school at Brock Universty. Welcome to my portfolio sit
 
 ## Blog Post
 
-First Sentence of blog post goes here
+First Sentence of blog post goes here [contiune reading](blog)
