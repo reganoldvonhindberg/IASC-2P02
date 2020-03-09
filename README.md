@@ -12,6 +12,6 @@ The sciences have always sought valid data that is free of interpretation. It’
 
 
 
-
+---
 
 As a side note, the name Reganold von Hindberg is just a fun name I came up with a while ago. I am also aware I misspelt Hindenburg. 
