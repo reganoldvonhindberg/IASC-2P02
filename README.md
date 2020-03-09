@@ -2,10 +2,10 @@
 
 ## About Me
 
-I am a person who goes to school at Brock Universty. Welcome to my portfolio site.
+My name is Matthew MacNeil, I am a second year Interactive Arts and Science student at Brock University. 
 
 ![Controller Headphone](images/controller.jpg)
 
 ## Blog Post
 
-First Sentence of blog post goes here [contiune reading](blog)
+The sciences have always sought valid data that is free of interpretation. It’s this data that the sciences are based on and continue to operate from. [contiune reading](blog)
