@@ -4,10 +4,18 @@ The sciences have always sought valid data that is free of interpretation. It’
 
 The visualization of the data should also be drawn into question as the visualization of data is interpreting the data into a new form. Steven Braun follows this line of thinking: “To think in these terms is to conceive of data communicated in visually or graphically motivated form – a data visualization – as constructed space, one in which the value of a visualization is inflected by the cultural and political forces embedded within the design choices of its creator and the interpretive act of the user.”(Braun 2) To expand this idea, if visualization is embedded with cultural and political forces by its creator then the same could be said about data being collected. A person is particularly situated within their culture and society, and it is this situation that affects their mindset and their work. To this end, data cannot be considered unquestionable since the data is linked to the person who collects and presents the data. The digital humanities do not need unquestionable data for the scholarship of the field to improve. As shown in the figure below, digital humanists discuss the humanities frequently yet the topic of data is considerably low between the humanists. When the digital humanities were created it did not rely on the data for its scholarship and it shows in current digital humanists. The digital humanities have attracted scholars from multiple different disciplines due to the open nature of the field. To certify the digital humanities firmly with the idea of unquestionable data would be counter-intuitive to the way the digital humanities presents itself.
 
-[CHART]
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 637px; height: 507px;' src='https://voyant-tools.org/tool/Trends/?query=data&query=humanities&query=interpretat*&query=scholarship&corpus=26d4ce7c769ed5247b34fd7489a08430'></iframe>
 
 To conclude, the digital humanities should not rely on unquestionable data. Since data is used by disciplines differently. The sciences collect quantifiable data that is replicable. Whereas the humanities deal with aspects of humanity that are, by nature, harder to quantify. Thus any data collected must be questioned since the methods of collection can vary between those collecting the data. As any visualization of data is embedded with the cultural and political forces of its creator. The data collected in the digital humanities field are inevitably linked with the collector in the method of collection. The digital humanities field attracts multiple different areas of study because it is not defined with a strict reliance on one particular method of study. The digital humanities is an independent discipline that should not seek to replicate the dependence on unquestionable data that is prevalent in the sciences.
 
 ### Works Cited
+
 Braun, Steven. “Critically Engaging with Data Visualization through an Information Literacy Framework.” Digital Humanities Quarterly, vol. 12, 2018.
+
 Moretti, Franco. “GRAPHS, MAPS, TREES.” New Left Review, vol. 24, 2003, pp. 67–93.
