@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Matthew MacNeil, I am a second year Interactive Arts and Science student at Brock University. 
+My name is Matthew MacNeil, I am a second year Interactive Arts and Science student at Brock University. I have an interest video games and video game development. I aim to become a game developer in the future.
 
 ![Controller Headphone](images/controller.jpg)
 
